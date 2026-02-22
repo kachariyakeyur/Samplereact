@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Samplereact/static/css/main.ae8cb43d.css",
-    "main.js": "/Samplereact/static/js/main.be409c5f.js",
-    "index.html": "/Samplereact/index.html",
-    "main.ae8cb43d.css.map": "/Samplereact/static/css/main.ae8cb43d.css.map",
-    "main.be409c5f.js.map": "/Samplereact/static/js/main.be409c5f.js.map"
+    "main.css": "/TextAnalizer_and_Editor/static/css/main.ae8cb43d.css",
+    "main.js": "/TextAnalizer_and_Editor/static/js/main.be409c5f.js",
+    "index.html": "/TextAnalizer_and_Editor/index.html",
+    "main.ae8cb43d.css.map": "/TextAnalizer_and_Editor/static/css/main.ae8cb43d.css.map",
+    "main.be409c5f.js.map": "/TextAnalizer_and_Editor/static/js/main.be409c5f.js.map"
   },
   "entrypoints": [
     "static/css/main.ae8cb43d.css",
