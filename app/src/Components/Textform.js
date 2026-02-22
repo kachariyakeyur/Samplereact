@@ -41,15 +41,15 @@ function Textform() {
       </div>
       <div className="container">
 
-        <button type="button" className="btn btn-light mx-1 my 1" onClick={Upperclick}>To Upper</button>
-        <button type="button" className="btn btn-light mx-1 my-1" onClick={Lowerclick}>To Lower</button>
-        <button  style={{width:"170px"}} type="button" className="btn btn-light mx-1 my-1" onClick={space}>Remove Extra Space</button>
-        <button style={{width:"70px"}} type="button" className="btn btn-light mx-1 my-1" onClick={clear}>Clear</button>
+        <button disabled={text.length===0} type="button" className="btn btn-light mx-1 my 1" onClick={Upperclick}>To Upper</button>
+        <button disabled={text.length===0} type="button" className="btn btn-light mx-1 my-1" onClick={Lowerclick}>To Lower</button>
+        <button disabled={text.length===0} style={{width:"180px"}} type="button" className="btn btn-light mx-1 my-1" onClick={space}>Remove Extra Space</button>
+        <button disabled={text.length===0} style={{width:"70px"}} type="button" className="btn btn-light mx-1 my-1" onClick={clear}>Clear</button>
 
       </div>
 
       <div className="container">
-        In Your Text Total Character : {text.length} 
+        In Your Text Total Words : {text.split(" ").filter((element)=>{return element.length!==0}).length} and Characters : {text.length} 
       </div>
 
     </>
