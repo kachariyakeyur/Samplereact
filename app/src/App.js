@@ -18,8 +18,6 @@ function App() {
      
         <Route exact path="/" element={<Textform />} />
    
-     
-    
         <Route exact path="/about" element={<About />} />
      
     </Routes>
