@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/TextAnalyzer_and_Editor/static/css/main.ae8cb43d.css",
-    "main.js": "/TextAnalyzer_and_Editor/static/js/main.be409c5f.js",
+    "main.css": "/TextAnalyzer_and_Editor/static/css/main.4d59cedd.css",
+    "main.js": "/TextAnalyzer_and_Editor/static/js/main.52bd03ff.js",
     "index.html": "/TextAnalyzer_and_Editor/index.html",
-    "main.ae8cb43d.css.map": "/TextAnalyzer_and_Editor/static/css/main.ae8cb43d.css.map",
-    "main.be409c5f.js.map": "/TextAnalyzer_and_Editor/static/js/main.be409c5f.js.map"
+    "main.4d59cedd.css.map": "/TextAnalyzer_and_Editor/static/css/main.4d59cedd.css.map",
+    "main.52bd03ff.js.map": "/TextAnalyzer_and_Editor/static/js/main.52bd03ff.js.map"
   },
   "entrypoints": [
-    "static/css/main.ae8cb43d.css",
-    "static/js/main.be409c5f.js"
+    "static/css/main.4d59cedd.css",
+    "static/js/main.52bd03ff.js"
   ]
 }
